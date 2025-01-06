@@ -70,6 +70,7 @@ For example, the `"Chat your data"` use case:
 3. Compose documents into the context window of an LLM like `GPT3` for additional summarization or analysis.
 
 ## Embeddings?
+## By Mudassir Alam
 
 What are embeddings?
 
